@@ -1,7 +1,7 @@
 # Understanding-Effects-of-COVID-19-Worldwide
 Regression Models to Analyze COVID-19 Impact on 163  Countries
 
-##The data obtained from Ninth World Happiness Report (2021). Which focuses on the effects of
+The data obtained from Ninth World Happiness Report (2021). Which focuses on the effects of
 COVID-19 and how people all over the world have fared. There are two main objectives of this
 project. The data contains observations from over 160 countries for 11 demographic and economic
 variables. First, to study relation between deaths due to COVID-19 and certain demographic
